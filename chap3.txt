@@ -1,3 +1,4 @@
 La visualisation des données, c'est comme
 si les données prenaient vie pour raconter leur propre histoire, avec des
 graphiques et des diagrammes comme acteurs principaux.
+Ici les modifs faites apres une révision finale
