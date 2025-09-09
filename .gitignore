@@ -1,0 +1,4 @@
+# la liste des fichiers a ignoré qu'ils ne seront pas transmis au dépot distant
+secrets.txt
+*.class
+
